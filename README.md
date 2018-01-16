@@ -1,2 +1,2 @@
 # NamaskaramLokame
-HELLO WORLD
+Hello World
